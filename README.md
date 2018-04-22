@@ -1,5 +1,4 @@
-# 7390
-Digit Recognition
+# Digit Recognition
 
 Anaconda Install
 https://docs.continuum.io/anaconda/install

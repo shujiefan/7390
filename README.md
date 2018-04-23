@@ -1,8 +1,25 @@
-# 7390
+# Digit Recognition
+
+Anaconda Install
+https://docs.continuum.io/anaconda/install
+
+Anaconda Docs
+https://conda.io/docs/
+
+https://conda.io/docs/py2or3.html
+
+Create a Python 3.5 environment
+conda create -n py35 python=3.5 anaconda
+
+To activate this environment, use:
+
+source activate py35
+
+Dataset:
+https://www.kaggle.com/c/digit-recognizer/data
 
 
-
-MIT License
+# MIT License
 
 Copyright (c) 2018 shujiefan
 
